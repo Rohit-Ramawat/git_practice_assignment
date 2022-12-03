@@ -14,4 +14,6 @@ function prime(num){
       console.log("Not Prime");
     }
   }
-}
+} 
+prime(5);
+prime(6);
